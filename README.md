@@ -8,7 +8,7 @@ An iOS app that gives sports fans detailed information about their favorite spor
 
 ## 🎬 Demo
 
-[![Watch the demo](https://drive.google.com/file/d/1krmzkStg2FEpimNaRaut1MFGgKw3vVq3/view?usp=sharing)
+[▶️ Watch the demo video](https://drive.google.com/file/d/1krmzkStg2FEpimNaRaut1MFGgKw3vVq3/view?usp=sharing)
 
 ## 📱 Features
 
