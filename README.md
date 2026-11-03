@@ -8,10 +8,7 @@ An iOS app that gives sports fans detailed information about their favorite spor
 
 ## 🎬 Demo
 
-https://github.com/<your-username>/SportSpire/assets/<video-id>
-
-> Tip: to embed the video, drag and drop the file into the README editor on GitHub (it will generate the link for you). You can also link a YouTube video instead:
-> `[![Watch the demo](screenshots/home.png)](https://youtu.be/<video-id>)`
+[![Watch the demo](https://drive.google.com/file/d/1krmzkStg2FEpimNaRaut1MFGgKw3vVq3/view?usp=sharing)
 
 ## 📱 Features
 
@@ -26,15 +23,28 @@ https://github.com/<your-username>/SportSpire/assets/<video-id>
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/home.png" width="200"/>
-  <img src="screenshots/leagues.png" width="200"/>
-  <img src="screenshots/league-details.png" width="200"/>
-  <img src="screenshots/favorites.png" width="200"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Home</b></td>
+    <td align="center"><b>Leagues</b></td>
+    <td align="center"><b>League Details</b></td>
+    <td align="center"><b>Teams</b></td>
+    <td align="center"><b>Team Details</b></td>
+    <td align="center"><b>Favorites</b></td>
+    <td align="center"><b>Favorite Details</b></td>
 
-| Home | Leagues | League Details | Favorites |
-|:----:|:-------:|:--------------:|:---------:|
+  </tr>
+  <tr>
+    <td><img width="150" src="https://github.com/user-attachments/assets/fc68372e-1c00-4f9f-8517-8bcd47dbe7dd" /></td>
+    <td><img width="150" src="https://github.com/user-attachments/assets/733cb552-ea5e-48ac-a414-63eccfd5ab8b" /></td>
+    <td><img width="150" src="https://github.com/user-attachments/assets/77285ab4-21c8-4f8b-bbc7-b4107b8f9dfb" /></td>
+    <td><img width="150" src="https://github.com/user-attachments/assets/fab7dfdf-5b8e-4cfb-a2f3-1b1c82270950" /></td>
+    <td><img width="150" src="https://github.com/user-attachments/assets/110375b2-d436-4da7-8fb3-0943d56cc9dd" /></td>
+    <td><img width="150" src="https://github.com/user-attachments/assets/45f883bb-e589-4bd6-8480-c495fcf25034" /></td>
+    <td><img width="150" src="https://github.com/user-attachments/assets/a0bd5076-312f-443f-a09e-201810fe7a39" /></td
+
+  </tr>
+</table>
 
 ## 🛠 Tech Stack
 
@@ -77,40 +87,9 @@ SportSpire/
 - iOS 14.0 or later
 - CocoaPods or Swift Package Manager (depending on your setup)
 
-### Installation
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/<your-username>/SportSpire.git
-   ```
-2. Navigate to the project folder
-   ```bash
-   cd SportSpire
-   ```
-3. Install dependencies (if using CocoaPods)
-   ```bash
-   pod install
-   ```
-4. Open the project in Xcode
-   ```bash
-   open SportSpire.xcworkspace
-   ```
-5. Build and run on a simulator or a real device
-
-
 ## 👥 Contributors
 
 | Name | GitHub |
 |------|--------|
 | **Naden Mohamed** | [naden43](https://github.com/naden43) |
-| **Salma Maher** | [salmamaher14](https://github.com/your-username) |
-
-
-
-
-
-
-
-
-
-
+| **Salma Maher** | [salmamaher14](https://github.com/salmamaher14) |
